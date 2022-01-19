@@ -1,5 +1,5 @@
 :root {
-    --branco: #d3a06c;
+    --branco: #FFF;
     --azul-claro: #DFE3E5;
     --vermelho-forte: #B72E2E;
     --cinza-escuro: #4F4C4C;
@@ -10,14 +10,13 @@
     --fonte-cinza: #666;
     --borda-cabecalho-mobile: #103D4A;
     --bg-rodape: #333;
-    --bg-chamada-mobile: #56534b;
-    --bg-botao: #8f3636;
+    --bg-chamada-mobile: #00161C;
 
     --planos-cartao-start: #56CCF2;
     --planos-cartao-ultra: #B04CD9;
     --planos-cartao-mega: #E33B3B;
 
-    --montserrat: 'Montserrat', sans-serif
+    --montserrat: 'Montserrat', sans-serif;
 }
 
 body {
